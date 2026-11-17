@@ -102,9 +102,9 @@ a { color: var(--green-dark); }
   background: var(--green-soft); color: var(--green-dark);
   font-size: 13px; font-weight: 700;
 }
-.quiz-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+.quiz-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
 .quiz-row figure { margin: 0; }
-.quiz-row .feature-shot { padding: 24px 20px 0; border-radius: 24px; }
+.quiz-row .feature-shot { padding: 20px 16px 0; border-radius: 22px; }
 .quiz-row figcaption { margin-top: 16px; color: var(--ink-soft); font-size: 15px; }
 .quiz-row figcaption strong { display: block; color: var(--ink); font-size: 17px; margin-bottom: 4px; }
 
